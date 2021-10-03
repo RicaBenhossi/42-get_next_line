@@ -1,0 +1,9 @@
+core
+*.out
+*.o
+*.a
+*.so
+*.gch
+*.desktop
+*.pdf
+*.txt
